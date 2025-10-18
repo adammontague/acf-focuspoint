@@ -76,7 +76,7 @@ $image_src = wp_get_attachment_image_src( $image['id'], 'large' );
 
 ### Changelog
 
-See [`changelog.md`](https://github.com/ooksanen/acf-focuspoint/blob/master/changelog.md)
+See [`changelog.md`](https://github.com/adammontague/acf-focuspoint/blob/main/changelog.md)
 
 -----------------------
 
