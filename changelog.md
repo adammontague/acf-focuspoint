@@ -1,5 +1,8 @@
 ## Changelog
 
+### 1.2.1
+* Fixed compatibility with php 8.x requiring properties to be explicitly declared before use
+
 ### 1.2.0
 * Added options for Library (All / Uploaded to post) as requested in https://github.com/ooksanen/acf-focuspoint/issues/9 and Allowed file types
 
