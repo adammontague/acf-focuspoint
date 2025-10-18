@@ -1,17 +1,9 @@
-## NOTE
-
-This project isn't being developed at the moment. I recommend checking out https://github.com/hirasso/focal-point-picker for a more comprehensive and up-to-date version of image focal point selection.
-
-
------------------------
-
-
 
 # ACF: FocusPoint
 
 Adds a new "FocusPoint" field type to [Advanced Custom Fields](https://www.advancedcustomfields.com/) allowing users to select a focal point on images.
 
-If you find this plugin useful, please consider sponsoring the development by clicking the Sponsor button or [directly through PayPal](https://paypal.me/ooksanen).
+This is my attempt to keep the plugin usable since the original was abandoned.
 
 -----------------------
 
